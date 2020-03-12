@@ -1,4 +1,4 @@
-#Die Rolling Simulated Experiment
+# Die Rolling Simulated Experiment
 
 This algorithm simulates an experiment 10,000 times, where a die is continually rolled until two consecutive rolls add up to 7.
 
