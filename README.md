@@ -6,4 +6,4 @@ The "set.seed(1)" is a random number generator intended to allow the user to rep
 
 The result of this experiment provides the expected value (E(X)), where X is the number of rolls needed to achieve the sum of 7 from two consecutive rolls.
 
-The output of this algorith with the "set.seed(1)" is 7.0184.
+The output of this algorithm is 7.0184.
